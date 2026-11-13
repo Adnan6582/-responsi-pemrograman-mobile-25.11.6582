@@ -175,7 +175,7 @@ class _HomeScreenState extends State<HomeScreen> {
           bottom: const TabBar(
             tabs: [
               Tab(icon: Icon(Icons.note_outlined), text: 'Catatan Saya'),
-              Tab(icon: Icon(Icons.public_outlined), text: 'Referensi API'),
+              Tab(icon: Icon(Icons.public_outlined), text: 'Info Kampus'),
             ],
           ),
         ),

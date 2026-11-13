@@ -67,10 +67,10 @@ class _AppProviderWrapperState extends State<AppProviderWrapper> {
   final NoteRepository _noteRepository = NoteRepository();
 
   Student _student = const Student(
-    name: 'Budi Santoso',
-    nim: '22.11.4567',
+    name: 'Adnan Nur Kholis',
+    nim: '25.11.6582',
     programStudi: 'S1 Informatika',
-    email: 'budi.santoso@students.amikom.ac.id',
+    email: 'a.nur.kholis@students.amikom.ac.id',
   );
 
   List<Note> _notes = [];
